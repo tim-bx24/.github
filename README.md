@@ -50,6 +50,16 @@
 
 ### 📊 GitHub статистика
 
+## 💻 Статистика активности @tim-bx24
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-bx24&show_icons=true&theme=default)
+
+---
+
+## 📈 График коммитов за последний год
+
+![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=tim-bx24&width=800&height=150&bg=ffffff&color=1f6feb)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tim-bx24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
