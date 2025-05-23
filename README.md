@@ -52,20 +52,20 @@
 
 ## 💻 Статистика активности @tim-bx24
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-bx24&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxtim&show_icons=true&theme=default)
 
 ---
 
 ## 📈 График коммитов за последний год
 
-![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=tim-bx24&width=800&height=150&bg=ffffff&color=1f6feb)
+![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=sxtim24&width=800&height=150&bg=ffffff&color=1f6feb)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tim-bx24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxtim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tim-bx24&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxtim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
