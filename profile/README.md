@@ -57,6 +57,8 @@
 
 ---
 
+![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=sxtim&width=800&height=150)
+
 ## 📈 График коммитов за последний год
 
 ![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=sxtim&width=800&height=150&bg=ffffff&color=1f6feb)
