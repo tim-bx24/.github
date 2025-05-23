@@ -58,7 +58,7 @@
 
 ## 📈 График коммитов за последний год
 
-![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=sxtim24&width=800&height=150&bg=ffffff&color=1f6feb)
+![Contribution Graph](https://github-contribution-graph.rafgraph.dev/?username=sxtim&width=800&height=150&bg=ffffff&color=1f6feb)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sxtim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -83,5 +83,5 @@
 </details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tim-bx24&color=blue&style=flat-square&label=Просмотры+профиля" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sxtim&color=blue&style=flat-square&label=Просмотры+профиля" alt="Profile views" />
 </p>
